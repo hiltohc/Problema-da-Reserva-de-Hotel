@@ -18,9 +18,9 @@ def calcularDiahotel(tipoClinte,dia1,dia2,dia3):
         else:
             return print(' {} '.format(hotelLake.nome))
     elif(b > a) and (b > c):
-        return print(' {} '.format(hotelbridgewood))
+        return print(' {} '.format(hotelbridgewood.nome))
     elif (b > a) and (b > c):
-        return print(' {} '.format(hotelRidgewood))
+        return print(' {} '.format(hotelRidgewood.nome))
 
 
 
