@@ -32,10 +32,3 @@ def calcDiaria(tipoClitente,dia):
 
 
 
-
-def calcularDiaTotal(tipoClinte,dia1,dia2,dia3):
-   a= calcDiaria(tipoClinte,dia1)
-   b= calcDiaria(tipoClinte,dia2)
-   c= calcDiaria(tipoClinte,dia3)
-   d = a+b+c
-   return d
