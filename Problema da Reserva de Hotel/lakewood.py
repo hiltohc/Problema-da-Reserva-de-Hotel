@@ -30,7 +30,7 @@ def calcDiaria(tipoClitente,dia):
 
 
 
-print(calcDiaria("regular","26Mar2009(thur)"))
+
 
 
 def calcularDiaTotal(tipoClinte,dia1,dia2,dia3):
